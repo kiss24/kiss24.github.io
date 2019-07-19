@@ -176,7 +176,7 @@ namespace Common
 }
 ```
 
-## XmlFile.xml
+## Config.xml
 
 ```Xml
 <?xml version="1.0" encoding="utf-8"?>
